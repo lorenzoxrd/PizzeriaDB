@@ -2,8 +2,7 @@
 import pyodbc
 from datetime import datetime
 # --- CONFIGURACIÓN DE LA CONEXIÓN ---
-# ¡IMPORTANTE! Reemplaza 'TU_NOMBRE_DE_SERVIDOR' con el nombre de tu servidor SQL Server.
-# Lo puedes encontrar al iniciar sesión en SQL Server Management Studio.
+
 SERVER_NAME = 'WIN-170IUCRPJ9H\SQLEXPRESS'
 DATABASE_NAME = 'PizzeriaDB'
 # Cadena de conexión
